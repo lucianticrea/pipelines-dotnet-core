@@ -1,4 +1,4 @@
-https://dev.azure.com/lucianticrea/Hello%20World/_apis/build/status/lucianticrea.pipelines-dotnet-core?branchName=master
+[![Build Status](https://dev.azure.com/lucianticrea/Hello%20World/_apis/build/status/lucianticrea.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/lucianticrea/Hello%20World/_build/latest?definitionId=1&branchName=master)
 
 
 # Sample ASP.NET Core application for Azure Pipelines docs
